@@ -14,6 +14,16 @@
 
 ## Sobre
 
+## Good to know
+
+| Extension Style | Tier – 1 | Tier – 2 | Tier – 3 (Legacy) |
+|----------------|----------|----------|--------------------|
+| **Report** | Custom Fields, Custom Logic, Embedded Analytics, Custom CDS Views, Custom BO, Custom Analytical Query, RAP Application – Based on SAP Released Objects | RAP Application – Based on SAP Unreleased Objects | SEGW (Gateway Service Builder), BOPF, BSP (Business Server Pages), Web Dynpro, ALV, Module Pool |
+| **Interface** | OData Service, SOAP API, Enterprise Event Enablement, Event Consumption Mode, Custom BO, Custom CDS View | SAP Unreleased Object (using wrapper) | Idocs & BAPIs, Custom IDOC, SEGW, BOPF, Custom Remote FM, Custom Webservice |
+| **Enhancement** | Custom Fields, Other Key User Extension Apps, Screen Personas | Wrapper RAP BO, Wrapper CDS Views, Wrapper Classes | Classic BADI, Overwrites/Implicit/Clones, Webdynpro Enhancement, MV45AF, VOFM, BOPF, SEGW, ALV, Module Pool, Webdynpro, Custom transaction, Custom FM |
+| **Forms** | S/4 HANA Output Management, Adobe Forms – Fragment based, Custom Logic, Custom Fields | Adobe Forms | NAST, Smartforms, Sapscripts, Create Standard text (SO10), Form Graphics (SE78) |
+| **Workflow** | Extend Flexible Workflow, SAP Build Process Automation |  | Classical ABAP Workflow |
+
 Este repositório é um fork de outro repositório e tem como objetivo armazenar dados e aprendizados sobre ABAP e ABAP Cloud.
 
 ## Recursos
