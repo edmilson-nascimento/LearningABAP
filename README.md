@@ -42,4 +42,3 @@ Este repositório é um fork de outro repositório e tem como objetivo armazenar
 ## Licença
 
 Este projeto está licenciado sob a licença SAP - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
